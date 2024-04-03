@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "أول مقالة علي الموقع",
+      "description": "<p class=\"ql-align-center\"><strong class=\"ql-size-huge\" style=\"color: rgb(255, 194, 102); background-color: rgb(194, 133, 255);\"><em><u>بسم الله الرحمن الرحيم </u></em></strong></p><p><strong>والصلاة والسلام علي سيدنا محمد أشرف خلق الله</strong></p>"
+    },
+    {
+      "id": "2",
+      "title": "Second Article",
+      "description": "<p>Second ArticleSecond ArticleSecond ArticleSecond ArticleSecond Article</p>"
+    },
+    {
+      "id": "3",
+      "title": "123456",
+      "description": "<p>123456789</p>"
+    }
+  ]
+}
